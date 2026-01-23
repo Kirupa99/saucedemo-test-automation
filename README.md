@@ -22,6 +22,7 @@ real-world e-commerce testing scenarios.
 - Smoke Testing
 
   ### Application Features Covered:
+  
 - User Login (Positive & Negative scenarios)
 - Product Listing
 - Add to Cart
@@ -30,6 +31,7 @@ real-world e-commerce testing scenarios.
 - Logout
 
 - ## Tools & Technologies Used
+  
 - Language: Java
 - Automation Tool: Selenium WebDriver
 - Test Framework: TestNG
@@ -40,11 +42,10 @@ real-world e-commerce testing scenarios.
 - Reporting: Extent Reports
 
 - ## Repository Structure
+  
 - Test-Analysis: Requirement analysis documentation
 - Test-Plan: Test strategy and planning documents
 - Test-Cases: Manual test case design
 - Automation: Selenium automation framework
 - CI-CD: GitHub Actions workflow
 - Reports: Automation execution reports
-
-- 
