@@ -21,7 +21,7 @@ real-world e-commerce testing scenarios.
 - Regression Testing
 - Smoke Testing
 
-  ### Application Features Covered:
+### Application Features Covered:
   
 - User Login (Positive & Negative scenarios)
 - Product Listing
